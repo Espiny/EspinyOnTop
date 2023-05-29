@@ -112,7 +112,7 @@
  		["url"]= "https://discord.gg/vV6RYMscMp",
  		["color"]= ""..webhookcolor.."",
  		["thumbnail"] = {
-         ["url"] = "https://cdn.discordapp.com/attachments/1077585452309155850/1106236489819496448/cat.png",
+         ["url"] = "https://discord.gg/vV6RYMscMp",
          ["height"] = 420,
          ["width"] = 420
          },
