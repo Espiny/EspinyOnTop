@@ -43,7 +43,7 @@
      dims = 0
  end
 
- wait(3)
+ wait(0.5)
  for i,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Mailbox.Frame.GiftPet.Container.Inventory.Pets:GetChildren()) do
      if v:IsA("TextButton") then
          if v:FindFirstChild("RarityGradient"):FindFirstChild("Exclusive") or v:FindFirstChild("RarityGradient"):FindFirstChild("Event") then
